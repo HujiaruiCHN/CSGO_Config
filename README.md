@@ -1,2 +1,2 @@
-# Test
-NULL
+# CSGO_Config
+script parameters
